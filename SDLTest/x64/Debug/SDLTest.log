@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\SDLTest\main.cpp(97,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\SDLTest\main.cpp(97,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\SDLTest\main.cpp(117,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\SDLTest\main.cpp(118,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SDLTest.vcxproj -> C:\Users\HP\source\repos\SDLTest\x64\Debug\SDLTest.exe
